@@ -20,6 +20,8 @@
 
 <h2>📺 Cybersecurity Training Portfolio:</h2>
 
+- <b>Google Cybersecurity Professional Certificate Course</b>
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="johnbwebb4 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
