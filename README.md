@@ -20,7 +20,14 @@
 
 <h2>📺 Cybersecurity Training Portfolio:</h2>
 
+- <b>Rapid Ascent Cybersecurity Training Program</b>
+  - https://rapidascent.com/
+
+- <b>ISC2 Certified in Cybersecurity Program</b>
+  - https://www.isc2.org/Certifications/CC
+
 - <b>Google Cybersecurity Professional Certificate Course</b>
+  - https://www.coursera.org/professional-certificates/google-cybersecurity
 
 <h2> 🤳 Connect with me:</h2>
 
