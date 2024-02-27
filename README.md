@@ -2,9 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Google Cybersecurity Professional Certificate Course(Projects)</b>
-  - https://github.com/jwbizz08/Google-Cybersecurity-Professional-Certificate
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Google Cybersecurity Professional Certificate Course</b>
+  - [Course Projects](https://github.com/jwbizz08/Google-Cybersecurity-Professional-Certificate)
+- <b>Rapid Ascent Cybersecurity Training Program</b>
+  - [Identity & Acess Management/Cryptography]
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
