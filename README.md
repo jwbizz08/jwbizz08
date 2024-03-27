@@ -19,6 +19,9 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+ <h2>👨‍💻 Cybersecurity Certifications:</h2>
+ 
+
 <h2>📺 Cybersecurity Training Portfolio:</h2>
 
 - <b>Rapid Ascent Cybersecurity Training Program</b>
