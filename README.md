@@ -4,23 +4,19 @@
 
 - <b>Google Cybersecurity Professional Certificate Course</b>
   - [Course Projects](https://github.com/jwbizz08/Google-Cybersecurity-Professional-Certificate)
+  - 
 - <b>Rapid Ascent Cybersecurity Training Program</b>
   - [Identity & Acess Management/Cryptography]
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  
 - <b>Virtual Box</b>
   - [Vulnhub-Jangow](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
  <h2>👨‍💻 Cybersecurity Certifications:</h2>
  
+  - [CompTIA Security+ CE](https://github.com/jwbizz08/CompTIA-Security-CE/blob/main/README.md)
 
 <h2>📺 Cybersecurity Training Portfolio:</h2>
 
