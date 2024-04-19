@@ -1,4 +1,4 @@
-<h1>Hi, I'm John! <br/><a href="https://github.com/jwbizz08">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in//john-b-webb4/">
+<h1>Hi, I'm John! <br/><a href="https://github.com/jwbizz08">Cybersecurity Professional</a><a href="https://www.linkedin.com/in//john-b-webb4/">
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
