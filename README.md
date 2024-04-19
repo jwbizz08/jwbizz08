@@ -4,13 +4,10 @@
 
 - <b>Google Cybersecurity Professional Certificate Course</b>
   - [Course Projects](https://github.com/jwbizz08/Google-Cybersecurity-Professional-Certificate)
-  - 
+    
 - <b>Rapid Ascent Cybersecurity Training Program</b>
-  - [Identity & Acess Management/Cryptography]
-  
-- <b>Virtual Box</b>
-  - [Vulnhub-Jangow](https://github.com/joshmadakor1/Sentinel-Lab)
-  
+  - [Linux-Projects-Labs](https://github.com/jwbizz08/Linux-Projects-Labs)
+   
  <h2>👨‍💻 Cybersecurity Certifications:</h2>
  
   - [CompTIA Security+ CE](https://github.com/jwbizz08/CompTIA-Security-CE/blob/main/README.md)
