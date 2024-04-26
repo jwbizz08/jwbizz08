@@ -1,5 +1,9 @@
-<h1>Hi, I'm John! <br/><a href="https://www.linkedin.com/in//john-b-webb4/">Cybersecurity Professional</a>
+<h1>Hi, I'm John! 
+   
+  <br/><a href="https://www.linkedin.com/in//john-b-webb4/">Cybersecurity Professional:</a>
+    
 
+  I'm all about leading dynamic initiatives, from optimizing workflows to safeguarding critical information assets. My passionate dedication fuel innovation and resilience for tackling the toughest challenges head-on. I thrive on pushing boundaries, driving excellence, and ensuring success in every mission.
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Google Cybersecurity Professional Certificate Course</b>
