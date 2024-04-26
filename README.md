@@ -5,7 +5,7 @@
 
  💻  I'm all about leading dynamic initiatives, from optimizing workflows to safeguarding critical information assets. My passionate dedication fuel innovation and resilience for tackling the toughest challenges head-on. I thrive on pushing boundaries, driving excellence, and ensuring success in every mission. 💻
 
-⌨️  My github is continuously being updated as I continue to add more complete projects, and finish developing different cybsecurity labs. 🖱
+⌨️  My github is continuously being updated as I continue to add more complete projects, and finish developing different cybersecurity labs. 🖱
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Google Cybersecurity Professional Certificate Course</b>
