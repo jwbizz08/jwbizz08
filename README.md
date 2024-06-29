@@ -13,6 +13,10 @@
     
 - <b>Rapid Ascent Cybersecurity Training Program</b>
   - [Linux-Projects-Labs](https://github.com/jwbizz08/Linux-Projects-Labs)
+  - [Cyber-Threat-Intelligence-Labs](https://github.com/jwbizz08/Cyber-Threat-Intelligence-Labs)
+  - [Windows-Operations-Labs](https://github.com/jwbizz08/Windows-Operations-Labs)
+  - [Cloud-Computing-Labs](https://github.com/jwbizz08/Cloud-Computing-Labs)
+  - [Virtual-Box-Guided-Labs](https://github.com/jwbizz08/Virtual-Box-Guided-Labs)
    
  <h2>👨‍💻 Cybersecurity Certifications:</h2>
  
