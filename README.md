@@ -22,7 +22,7 @@
  
   - [CompTIA Security+ CE](https://github.com/jwbizz08/CompTIA-Security-CE/blob/main/README.md) 📜
   - [Certified in Cybersecurity](https://github.com/jwbizz08/Certified-in-Cybersecurity) 📜
-  - [Certified Scrum Master](
+  - [Certified Scrum Master](https://github.com/jwbizz08/Certified-Scrum-Master/blob/main/README.md) 📜
 
 <h2>📺 Cybersecurity Training Portfolio:</h2>
 
