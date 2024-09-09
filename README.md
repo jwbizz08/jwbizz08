@@ -19,7 +19,8 @@
   - [Virtual-Box-Guided-Labs](https://github.com/jwbizz08/Virtual-Box-Guided-Labs)
    
  <h2>👨‍💻 Cybersecurity Certifications:</h2>
- - [CompTIA CySA+ CE](https://github.com/jwbizz08/CompTIA-CySA-CE) 📜
+ 
+  - [CompTIA CySA+ CE](https://github.com/jwbizz08/CompTIA-CySA-CE) 📜
   - [CompTIA Security+ CE](https://github.com/jwbizz08/CompTIA-Security-CE/blob/main/README.md) 📜
   - [Certified in Cybersecurity](https://github.com/jwbizz08/Certified-in-Cybersecurity) 📜
   - [Certified Scrum Master](https://github.com/jwbizz08/Certified-Scrum-Master/blob/main/README.md) 📜
