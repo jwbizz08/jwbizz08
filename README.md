@@ -20,7 +20,7 @@
    
  <h2>👨‍💻 Cybersecurity Certifications:</h2>
  
- - [CompTIA Security Analytics Expert (CSAE)](https://github.com/jwbizz08/CompTIA-Security-Analytics-Expert/edit/main/README.md)📜
+ - [CompTIA Security Analytics Expert (CSAE)](https://github.com/jwbizz08/CompTIA-Security-Analytics-Expert/blob/main/README.md)📜
  - [CompTIA Security Analytics Professional (CSAP)](https://github.com/jwbizz08/CompTIA-Security-Analytics-Professional) 📜
  - [CompTIA CySA+ CE](https://github.com/jwbizz08/CompTIA-CySA-CE) 📜
  - [CompTIA Security+ CE](https://github.com/jwbizz08/CompTIA-Security-CE/blob/main/README.md) 📜
