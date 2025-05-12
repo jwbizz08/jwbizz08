@@ -3,7 +3,7 @@
   <br/><a href="https://www.linkedin.com/in//john-b-webb4/">Cybersecurity Professional:</a>
     
 
- 💻  I'm all about leading dynamic initiatives, from optimizing workflows to safeguarding critical information assets. My passionate dedication fuel innovation and resilience for tackling the toughest challenges head-on. I thrive on pushing boundaries, driving excellence, and ensuring success in every mission. 💻
+ 💻 I’m driven by a passion for tackling cybersecurity challenges. From optimizing workflows to safeguarding critical assets, I specialize in cyber threat intelligence, OSINT, and information security. Using cutting-edge tools and strategies, I stay ahead of evolving risks to ensure organizations remain secure in an ever-changing landscape. 💻
 
 ⌨️  My github is continuously being updated as I continue to add more complete projects, and finish developing different cybersecurity labs. 🖱
 <h2>👨‍💻 Cybersecurity Projects:</h2>
